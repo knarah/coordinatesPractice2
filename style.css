@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    background-image: url("img/bg.jpg");
+    background-size: cover;  
+    background-repeat: no-repeat;
+    margin: 0px;
+    
+}
+
+.vertical {
+    background-color: white;
+    height: 100%;
+    width: 1px;
+    position: absolute;
+    
+}
+
+.horizontal {
+    background-color: white;
+    height: 1px;
+    width: 100%;
+    position: absolute;
+}
+
+.target {
+    position: absolute;
+    
+}
+
+.tag {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    margin: 20px;
+}
